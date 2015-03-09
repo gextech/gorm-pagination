@@ -1,6 +1,8 @@
 gorm-pagination
 ===============
 
+[![Join the chat at https://gitter.im/gextech/gorm-pagination](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gextech/gorm-pagination?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gextech/gorm-pagination?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This library paginates hibernate (GORM) entities
